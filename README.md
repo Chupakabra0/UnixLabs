@@ -1,3 +1,3 @@
 # Unix<s>Essay</s>Labs
- * Лабораторная работа №1. Is this a JoJo reference?: [Ссылка](#) <br/>
+ * Лабораторная работа №1. Is this a JoJo reference? [ОТссылка](https://github.com/Chupakabra0/UnixLabs/tree/first-lab/UnixLab1) <br/>
    To be continued...
